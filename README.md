@@ -4,7 +4,7 @@
 
 _**Note:** In order to run different parts of the code, please look no further than the wonderful file **run.py**. By default this will produce the final submission file that lead to the best predictions, but by uncommenting parts of the file it is possible to also run the other steps of this project. Importantly, due to the file size limit of GitHub, please **add the training and testing data sets** yourself, calling them "train.csv" and "test.csv" and placing them in the directory "data"._
 
-The aim of this project is to use different machine learning methods in order to predict whether or not a Higgs boson signal was present in data available from the CERN ATLAS experiment. This project is part of the EPFL machine learning course challenge 2021. For more info see https://www.aicrowd.com/challenges/epfl-machine-learning-higgs/
+The aim of this project is to use different machine learning methods in order to predict whether or not a Higgs boson signal was present in data available from the CERN ATLAS experiment. This project is part of the EPFL machine learning course challenge 2021. For more info see https://www.aicrowd.com/challenges/epfl-machine-learning-higgs/. The final report for this project is also included in this repository, under the name **Higgs_Boson_Detection_Using_ML.pdf**.
 
 The investigated machine learning methods are:
 -  least squares (solved with normal equations)
