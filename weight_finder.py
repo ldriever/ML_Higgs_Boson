@@ -5,7 +5,6 @@ The functions further train the models and write the found weights to files
 '''
 
 import numpy as np
-import matplotlib.pyplot as plt
 
 from implementations import least_squares, least_squares_GD, least_squares_SGD, ridge_regression, logistic_regression_SGD, reguralized_logistic_regression
 from weight_helpers import *
